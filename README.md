@@ -15,7 +15,7 @@
  
 
 
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Paulo_Avatar" height="150" width="150"  src="https://github.com/paulovitornovaes/paulovitornovaes/blob/main/assets/paulo_avatar.gif">
 </div>
   
   ##
